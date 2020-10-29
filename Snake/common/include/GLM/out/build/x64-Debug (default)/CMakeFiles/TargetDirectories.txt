@@ -1,0 +1,2 @@
+G:/C++ Projects/Visual Studio/TLG/TLGIP/Snake/common/include/GLM/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+G:/C++ Projects/Visual Studio/TLG/TLGIP/Snake/common/include/GLM/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
