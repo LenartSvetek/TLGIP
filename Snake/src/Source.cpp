@@ -54,7 +54,7 @@ int main() {
 	float lenght;
 	std::cout << "Type in the speed of snake(0 = default(0.08), smaller the value = faster the speed): ";
 	std::cin >> lenght;
-	if (lenght == 0) lenght == 0.08;
+	if (lenght == 0) lenght = 0.08;
 	WINDOW_SIZE = vel_celice * vel_tabele + vel_tabele - 2;
 	if (!initOpenGL()) {
 		std::cerr << "openGL initialisation failed...";
